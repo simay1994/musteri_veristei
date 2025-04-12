@@ -1,0 +1,75 @@
+müşteri id,müşteri yaşı,isim soyisim,şehir,cinsiyet,üyelik tarihi,sipariş adedi,toplam ödeme,ödeme şekli,ödeme yöntemi,ürünün kategorisi
+161234,39,Ayşe Yılmaz,İstanbul,Kadın,2023-06-05,7,950.30,peşin,kart,giyim
+162345,28,Ahmet Demir,Ankara,Erkek,2022-09-20,14,1820.75,taksitli,kart,kozmetik
+163456,,Zeynep Kaya,İzmir,Kadın,2024-01-25,5,650.90,peşin,havale-eft,elektronik
+164567,43,Hasan Şahin,Bursa,Erkek,2023-03-25,9,1200.20,taksitli,kart,ev&yaşam
+165678,20,Fatma Can,Antalya,Kadın,2024-04-01,2,225.30,peşin,kapıda ödeme,market
+166789,33,Ali Öztürk,Adana,Erkek,2022-07-07,16,2200.50,taksitli,kart,giyim
+167890,56,Elif Kara,Konya,Kadın,2023-10-18,3,350.00,peşin,havale-eft,anne&çocuk
+168901,25,Mehmet Aksoy,Mersin,Erkek,2024-02-02,8,1050.60,taksitli,kart,kozmetik
+169012,40,Seda Koç,Gaziantep,Kadın,2023-05-01,11,1450.85,peşin,kart,elektronik
+170123,,Burak Yücel,Eskişehir,Erkek,2022-08-05,5,680.10,taksitli,havale-eft,ev&yaşam
+171234,23,Gizem Arslan,Samsun,Kadın,2024-03-18,2,195.75,peşin,kapıda ödeme,market
+172345,50,Umut Çetin,Trabzon,Erkek,2023-02-12,10,1380.30,taksitli,kart,giyim
+173456,35,Pınar Deniz,Kayseri,Kadın,2022-11-03,7,990.40,peşin,havale-eft,anne&çocuk
+174567,28,Emre Güler,Diyarbakır,Erkek,2024-01-15,12,1550.95,taksitli,kart,kozmetik
+175678,46,Selen Kurt,Sakarya,Kadın,2023-04-20,4,510.20,peşin,kart,elektronik
+176789,21,Oğuz Başar,Kocaeli,Erkek,2022-09-28,6,820.55,taksitli,havale-eft,ev&yaşam
+177890,40,Duygu Aslan,Malatya,Kadın,2024-03-05,3,380.10,peşin,kapıda ödeme,market
+178901,30,Fatih Erol,Antalya,Erkek,2023-06-10,15,2050.70,taksitli,kart,giyim
+179012,52,Aslı Demirci,Sivas,Kadın,2022-10-22,8,1120.45,peşin,havale-eft,anne&çocuk
+180123,,Serkan Canan,Bolu,Erkek,2024-01-28,10,1310.80,taksitli,kart,kozmetik
+181234,37,Burcu Yılmaz,Denizli,Kadın,2023-03-03,5,650.30,peşin,kart,elektronik
+182345,26,İbrahim Kaya,Adana,Erkek,2022-12-11,7,910.65,taksitli,havale-eft,ev&yaşam
+183456,42,Merve Şahin,Trabzon,Kadın,2024-02-22,2,210.90,peşin,kapıda ödeme,market
+184567,31,Osman Öztürk,Erzurum,Erkek,2023-07-28,14,1900.25,taksitli,kart,giyim
+185678,59,Gamze Kara,Kayseri,Kadın,2022-09-15,4,480.00,peşin,havale-eft,anne&çocuk
+186789,24,Murat Aksoy,Muğla,Erkek,2024-01-10,9,1180.50,taksitli,kart,kozmetik
+187890,48,Ceren Koç,Eskişehir,Kadın,2023-04-25,6,790.75,peşin,kart,elektronik
+188901,22,Hakan Yücel,Konya,Erkek,2022-11-02,8,1080.15,taksitli,havale-eft,ev&yaşam
+189012,38,Sevim Arslan,Antalya,Kadın,2024-02-05,3,280.40,peşin,kapıda ödeme,market
+190123,,Can Çetin,Bursa,Erkek,2023-08-20,17,2350.60,taksitli,kart,giyim
+191234,33,Esra Deniz,Mersin,Kadın,2022-10-15,5,620.90,peşin,havale-eft,anne&çocuk
+192345,27,Furkan Güler,Diyarbakır,Erkek,2024-03-15,11,1480.35,taksitli,kart,kozmetik
+193456,41,Büşra Kurt,Sakarya,Kadın,2023-06-10,7,950.20,peşin,kart,elektronik
+194567,19,Yusuf Başar,Kocaeli,Erkek,2022-12-05,4,420.55,taksitli,havale-eft,ev&yaşam
+195678,44,Deniz Aslan,Malatya,Kadın,2024-02-28,2,150.10,peşin,kapıda ödeme,market
+196789,35,Selim Erol,Antalya,Erkek,2023-09-25,13,1750.80,taksitli,kart,giyim
+197890,51,Özlem Demirci,Sivas,Kadın,2022-11-18,9,1250.45,peşin,havale-eft,anne&çocuk
+198901,23,Ali Canan,Bolu,Erkek,2024-01-25,6,720.70,taksitli,kart,kozmetik
+199012,47,Sibel Yılmaz,Denizli,Kadın,2023-05-18,8,1050.30,peşin,kart,elektronik
+200123,28,Emir Kaya,Adana,Erkek,2022-12-28,10,1450.65,taksitli,havale-eft,ev&yaşam
+201234,40,Gül Şahin,Trabzon,Kadın,2024-03-10,3,350.90,peşin,kapıda ödeme,market
+202345,32,Recep Öztürk,Erzurum,Erkek,2023-07-10,15,2080.25,taksitli,kart,giyim
+203456,54,Nilüfer Kara,Kayseri,Kadın,2022-09-28,5,520.00,peşin,havale-eft,anne&çocuk
+204567,25,İsmail Aksoy,Muğla,Erkek,2024-02-20,12,1610.50,taksitli,kart,kozmetik
+205678,49,Burçin Koç,Eskişehir,Kadın,2023-04-10,7,850.75,peşin,kart,elektronik
+206789,21,Kadir Yücel,Konya,Erkek,2022-11-15,9,1150.15,taksitli,havale-eft,ev&yaşam
+207890,36,Tuğçe Arslan,Antalya,Kadın,2024-01-15,4,410.40,peşin,kapıda ödeme,market
+208901,30,Volkan Çetin,Bursa,Erkek,2023-08-05,16,2250.60,taksitli,kart,giyim
+209012,34,Selin Deniz,Mersin,Kadın,2022-10-28,6,700.90,peşin,havale-eft,anne&çocuk
+210123,,Onur Güler,Diyarbakır,Erkek,2024-03-25,13,1780.35,taksitli,kart,kozmetik
+211234,42,Hande Kurt,Sakarya,Kadın,2023-06-25,8,1020.20,peşin,kart,elektronik
+212345,20,Alper Başar,Kocaeli,Erkek,2022-12-18,5,550.55,taksitli,havale-eft,ev&yaşam
+213456,45,Ece Aslan,Malatya,Kadın,2024-02-15,3,280.10,peşin,kapıda ödeme,market
+214567,31,Metin Erol,Antalya,Erkek,2023-09-15,14,1950.80,taksitli,kart,giyim
+215678,53,Zeynep Demirci,Sivas,Kadın,2022-11-05,10,1320.45,peşin,havale-eft,anne&çocuk
+216789,24,Uğur Canan,Bolu,Erkek,2024-01-01,7,880.70,taksitli,kart,kozmetik
+217890,48,Buket Yılmaz,Denizli,Kadın,2023-05-25,9,1110.30,peşin,kart,elektronik
+218901,27,Serhat Kaya,Adana,Erkek,2022-12-01,11,1510.65,taksitli,havale-eft,ev&yaşam
+219012,39,Ayşen Şahin,Trabzon,Kadın,2024-03-01,4,450.90,peşin,kapıda ödeme,market
+220123,33,Kemal Öztürk,Erzurum,Erkek,2023-07-15,17,2380.25,taksitli,kart,giyim
+221234,57,Didem Kara,Kayseri,Kadın,2022-09-01,6,580.00,peşin,havale-eft,anne&çocuk
+222345,22,Selçuk Aksoy,Muğla,Erkek,2024-02-05,13,1750.50,taksitli,kart,kozmetik
+223456,46,Gizem Koç,Eskişehir,Kadın,2023-04-20,8,920.75,peşin,kart,elektronik
+224567,26,Murat Yücel,Konya,Erkek,2022-11-25,10,1280.15,taksitli,havale-eft,ev&yaşam
+225678,38,Pelin Arslan,Antalya,Kadın,2024-01-20,5,510.40,peşin,kapıda ödeme,market
+226789,31,Okan Çetin,Bursa,Erkek,2023-08-10,15,2150.60,taksitli,kart,giyim
+227890,35,Burcu Deniz,Mersin,Kadın,2022-11-01,7,810.90,peşin,havale-eft,anne&çocuk
+228901,,Fatih Güler,Diyarbakır,Erkek,2024-03-10,12,1680.35,taksitli,kart,kozmetik
+229012,43,Seda Kurt,Sakarya,Kadın,2023-07-01,9,1180.20,peşin,kart,elektronik
+230123,21,Yasin Başar,Kocaeli,Erkek,2022-12-25,6,610.55,taksitli,havale-eft,ev&yaşam
+231234,42,Elif Aslan,Malatya,Kadın,2024-02-20,4,220.10,peşin,kapıda ödeme,market
+232345,30,Hüseyin Erol,Antalya,Erkek,2023-09-20,16,2280.80,taksitli,kart,giyim
+233456,55,Aslı Demirci,Sivas,Kadın,2022-11-12,11,1420.45,peşin,havale-eft,anne&çocuk
+234567,23,Can Canan,Bolu,Erkek,2024-01-08,8,950.70,taksitli,kart,kozmetik
